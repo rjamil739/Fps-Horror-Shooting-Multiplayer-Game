@@ -1,0 +1,16 @@
+RestApiUrl_HTTP: http://localhost:5000
+RestApiUrl_HTTPS: http://localhost:5001
+UseCORS: False
+CorsAllowedDomains: http://localhost:3000,http://localhost:3001,http://localhost:3002,http://localhost:3000/signalr
+AlwaysRedirectToHTTPS: false
+ServerBuildManagerCommunicationPort: 8000
+ServerGameBuildExecutablePath: build/MultiFPS1.5.exe
+GameBuildStartingPort: 9001
+MaxGamesAtOnce: 5
+NetworkAddress: localhost
+NetworkAddressForClients: localhost
+UseReverseProxy: False
+ReverseProxyStartingPort: 27001
+LogGameBuildOutput: False
+KillServerProcessIfEmpty: False
+GameBuildShellExecute: False

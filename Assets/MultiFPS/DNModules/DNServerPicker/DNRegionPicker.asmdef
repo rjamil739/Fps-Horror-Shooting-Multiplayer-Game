@@ -1,0 +1,16 @@
+{
+    "name": "DNRegionPicker",
+    "rootNamespace": "",
+    "references": [
+        "GUID:202438125a4be4546bebe669e206d0ef"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

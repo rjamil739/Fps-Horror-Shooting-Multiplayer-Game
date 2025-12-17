@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8d4a85a73807a243bad2650e9490d15, type: 3}
+  m_Name: CharacterSkin_SOLDIER2
+  m_EditorClassIdentifier: 
+  SkinName: Solder2
+  Mesh: {fileID: -7941620431085647198, guid: a77fc368c156af34c88ecb3e4ee7b7a7, type: 3}
+  Material: {fileID: 2100000, guid: 30ad30f774018b34a9483a010bbf9cd7, type: 2}
+  FPP_Mesh: {fileID: 3262789661189265836, guid: 0162432a07add3648a67c1c3f9c6781f,
+    type: 3}
+  FPP_Material: {fileID: 2100000, guid: 30ad30f774018b34a9483a010bbf9cd7, type: 2}
